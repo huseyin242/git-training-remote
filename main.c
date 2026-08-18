@@ -8,5 +8,7 @@ int main() {
     printf("Mijn eerste GitHub wijziging!\n");
     printf("Deze wijziging kwam vanaf GitHub!\n");
     printf("Mijn eerste feature branch!\n");
+    printf("User information feature!\n");
+    printf("This feature is still\n");
     return 0;
 }

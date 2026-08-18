@@ -6,5 +6,6 @@ int main() {
     printf("Dit is een wijziging op main!\n");
     printf("Dit is een wijziging op experiment!\n");
     printf("Mijn eerste GitHub wijziging!\n");
+    printf("Deze wijziging kwam vanaf GitHub!\n");
     return 0;
 }
